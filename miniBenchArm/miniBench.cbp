@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="miniBench" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/miniBench" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="Linpack" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-march=barcelona -fopenmp" />
+				</Compiler>
+				<Linker>
+					<Add option="-fopenmp" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/miniBench" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-fexpensive-optimizations" />
+					<Add option="-O3" />
+					<Add option="-msse2 -mfpmath=sse+387 -malign-double -march=barcelona -fopenmp" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-static" />
+					<Add option="-fopenmp" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-march=pentium-m" />
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="cAes.cpp" />
+		<Unit filename="cAes.h" />
+		<Unit filename="cAesBench.cpp" />
+		<Unit filename="cAesBench.h" />
+		<Unit filename="cDhrystone.cpp" />
+		<Unit filename="cDhrystone.h" />
+		<Unit filename="cFFT.cpp" />
+		<Unit filename="cFFT.h" />
+		<Unit filename="cFlops.cpp" />
+		<Unit filename="cFlops.h" />
+		<Unit filename="cLinpack.cpp" />
+		<Unit filename="cLinpack.h" />
+		<Unit filename="cMiniBench.cpp" />
+		<Unit filename="cMiniBench.h" />
+		<Unit filename="cQueens.cpp" />
+		<Unit filename="cQueens.h" />
+		<Unit filename="cSha1.cpp" />
+		<Unit filename="cSha1.h" />
+		<Unit filename="cSha1Bench.cpp" />
+		<Unit filename="cSha1Bench.h" />
+		<Unit filename="cSha256.cpp" />
+		<Unit filename="cSha256.h" />
+		<Unit filename="cSha256Bench.cpp" />
+		<Unit filename="cSha256Bench.h" />
+		<Unit filename="cShortTests.cpp" />
+		<Unit filename="cShortTests.h" />
+		<Unit filename="cStopwatch.cpp" />
+		<Unit filename="cStopwatch.h" />
+		<Unit filename="cStream.cpp" />
+		<Unit filename="cStream.h" />
+		<Unit filename="cWhetstone.cpp" />
+		<Unit filename="cWhetstone.h" />
+		<Unit filename="cosbiCommon.cpp" />
+		<Unit filename="cosbiCommon.h" />
+		<Unit filename="cosbiCpuid.cpp" />
+		<Unit filename="cosbiCpuid.h" />
+		<Unit filename="cosbiDefine.h" />
+		<Unit filename="gladman/aes.h" />
+		<Unit filename="gladman/aescrypt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gladman/aeskey.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gladman/aesopt.h" />
+		<Unit filename="gladman/aestab.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

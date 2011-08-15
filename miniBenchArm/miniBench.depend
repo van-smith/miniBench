@@ -1,0 +1,960 @@
+# depslib dependency file v1.0
+1267173433 source:/home/kathy/code/c++/codeblocks/miniBench/cAes.cpp
+	"cAes.h"
+
+1267026961 
+
+1267172960 /home/kathy/code/c++/codeblocks/miniBench/cAes.h
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cstring>
+	"..\common\cosbiDefine.h"
+	".\gladman\aes.h"
+	"..\common\cosbiCpuid.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"./gladman/aes.h"
+	"cosbiCpuid.h"
+	"cosbiCommon.h"
+
+1267739855 on.h"
+
+1266888022 /home/kathy/code/c++/codeblocks/miniBench/cosbiDefine.h
+
+1184867163 /home/kathy/code/c++/codeblocks/miniBench/gladman/aes.h
+	"limits.h"
+
+1184867165 
+
+1266888736 /home/kathy/code/c++/codeblocks/miniBench/cosbiCpuid.h
+	<iostream>
+	<iomanip>
+	<string>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"..\common\cosbiDefine.h"
+	"cosbiDefine.h"
+
+1267001068 ne.h"
+
+1267736259 /home/kathy/code/c++/codeblocks/miniBench/cosbiCommon.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	"..\common\cosbiDefine.h"
+	"cosbiDefine.h"
+
+1184867158 source:/home/kathy/code/c++/codeblocks/miniBench/cAesBench.cpp
+	"cAesBench.h"
+
+1184867158 .h"
+
+1267028635 /home/kathy/code/c++/codeblocks/miniBench/cAesBench.h
+	<iostream>
+	<iomanip>
+	<string>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"..\..\common\cosbiDefine.h"
+	"..\..\common\cosbiCommon.h"
+	"..\..\crypto\cAes.h"
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCommon.h"
+	"..\crypto\cAes.h"
+	"cosbiDefine.h"
+	"cosbiCommon.h"
+	"cAes.h"
+
+1266997092 source:/home/kathy/code/c++/codeblocks/miniBench/cFlops.cpp
+	"cFlops.h"
+
+1266997468 /home/kathy/code/c++/codeblocks/miniBench/cFlops.h
+	<string>
+	<iostream>
+	<time.h>
+	<math.h>
+	"..\..\common\cosbiDefine.h"
+	"..\common\cosbiDefine.h"
+	"cosbiDefine.h"
+
+1266996871 source:/home/kathy/code/c++/codeblocks/miniBench/cLinpack.cpp
+	"cLinpack.h"
+
+1267000471 h"
+
+1266888472 /home/kathy/code/c++/codeblocks/miniBench/cLinpack.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	<iomanip>
+	"..\..\common\cosbiDefine.h"
+	"..\..\common\cosbiCommon.h"
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"cosbiCommon.h"
+
+1267896977 source:/home/kathy/code/c++/codeblocks/miniBench/cMiniBench.cpp
+	"cMiniBench.h"
+
+1278757555 h.h"
+
+1267887937 /home/kathy/code/c++/codeblocks/miniBench/cMiniBench.h
+	"cShortTests.h"
+	"cLinpack.h"
+	"cFlops.h"
+	"cSha1Bench.h"
+	"cSha256Bench.h"
+	"cAesBench.h"
+	"cDhrystone.h"
+	"cWhetstone.h"
+	"cQueens.h"
+	"cFFT.h"
+	"cosbiCommon.h"
+
+1267898030 /home/kathy/code/c++/codeblocks/miniBench/cShortTests.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<time.h>
+	<float.h>
+	<math.h>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+
+1267022310 /home/kathy/code/c++/codeblocks/miniBench/cSha1Bench.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<cstring>
+	"..\..\common\cosbiDefine.h"
+	"..\..\crypto\cSha1.h"
+	"..\common\cosbiDefine.h"
+	"..\crypto\cSha1.h"
+	"cosbiDefine.h"
+	"cSha1.h"
+
+1267022415 /home/kathy/code/c++/codeblocks/miniBench/cSha1.h
+	<string>
+	<malloc.h>
+	<cstring>
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCpuid.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"cosbiCpuid.h"
+	"cosbiCommon.h"
+
+1267025572 /home/kathy/code/c++/codeblocks/miniBench/cSha256Bench.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<cstring>
+	"..\..\crypto\cSha256.h"
+	"..\crypto\cSha256.h"
+	"cSha256.h"
+
+1267029314 "
+
+1267878140 /home/kathy/code/c++/codeblocks/miniBench/cSha256.h
+	<string>
+	<malloc.h>
+	<cstring>
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCpuid.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"cosbiCpuid.h"
+	"cosbiCommon.h"
+
+1267023361 source:/home/kathy/code/c++/codeblocks/miniBench/cSha1.cpp
+	"cSha1.h"
+
+1267022900 source:/home/kathy/code/c++/codeblocks/miniBench/cSha1Bench.cpp
+	"cSha1Bench.h"
+
+1267025714 source:/home/kathy/code/c++/codeblocks/miniBench/cSha256.cpp
+	"cSha256.h"
+
+1184867391 source:/home/kathy/code/c++/codeblocks/miniBench/cSha256Bench.cpp
+	"cSha256Bench.h"
+
+1184867391 nch.h"
+
+1267893170 source:/home/kathy/code/c++/codeblocks/miniBench/cShortTests.cpp
+	"cShortTests.h"
+
+1278761436 ts.h"
+
+1267736255 source:/home/kathy/code/c++/codeblocks/miniBench/cosbiCommon.cpp
+	"cosbiCommon.h"
+
+1267173569 source:/home/kathy/code/c++/codeblocks/miniBench/cosbiCpuid.cpp
+	"cosbiCpuid.h"
+
+1267177169 d.h"
+
+1267730616 source:/home/kathy/code/c++/codeblocks/miniBench/main.cpp
+	"cMiniBench.h"
+
+1184867163 source:/home/kathy/code/c++/codeblocks/miniBench/gladman/aescrypt.c
+	"aesopt.h"
+
+1184867164 /home/kathy/code/c++/codeblocks/miniBench/gladman/aesopt.h
+	"aes.h"
+	<sys/endian.h>
+	<machine/endian.h>
+	<endian.h>
+	<byteswap.h>
+	<endian.h>
+
+1184867164 source:/home/kathy/code/c++/codeblocks/miniBench/gladman/aeskey.c
+	"aesopt.h"
+
+1184867165 source:/home/kathy/code/c++/codeblocks/miniBench/gladman/aestab.c
+	"aesopt.h"
+
+1267881172 /home/kathy/code/c++/codeblocks/miniBench/cDhrystone.h
+	<sys/timeb.h>
+	"cShortTests.h"
+
+1267893476 source:/home/kathy/code/c++/codeblocks/miniBench/cDhrystone.cpp
+	"cDhrystone.h"
+
+1267884660 e.h"
+
+1267880663 /home/kathy/code/c++/codeblocks/miniBench/cWhetstone.h
+	"cShortTests.h"
+
+1267881060 source:/home/kathy/code/c++/codeblocks/miniBench/cWhetstone.cpp
+	"cWhetstone.h"
+
+1267881442 /home/kathy/code/c++/codeblocks/miniBench/cQueens.h
+	"cShortTests.h"
+
+1267881909 source:/home/kathy/code/c++/codeblocks/miniBench/cQueens.cpp
+	"cQueens.h"
+
+1267897704 source:/home/kathy/code/c++/codeblocks/miniBench/cFFT.cpp
+	"cFFT.h"
+
+1267893070 /home/kathy/code/c++/codeblocks/miniBench/cFFT.h
+	"cShortTests.h"
+
+1278478195 source:/home/van/code/c++/codeblocks/miniBench/cAes.cpp
+	"cAes.h"
+
+1267172960 /home/van/code/c++/codeblocks/miniBench/cAes.h
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cstring>
+	"..\common\cosbiDefine.h"
+	".\gladman\aes.h"
+	"..\common\cosbiCpuid.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"./gladman/aes.h"
+	"cosbiCpuid.h"
+	"cosbiCommon.h"
+
+1266888022 /home/van/code/c++/codeblocks/miniBench/cosbiDefine.h
+
+1184867163 /home/van/code/c++/codeblocks/miniBench/gladman/aes.h
+	"limits.h"
+
+1266888736 /home/van/code/c++/codeblocks/miniBench/cosbiCpuid.h
+	<iostream>
+	<iomanip>
+	<string>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"..\common\cosbiDefine.h"
+	"cosbiDefine.h"
+
+1278481228 /home/van/code/c++/codeblocks/miniBench/cosbiCommon.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	"..\common\cosbiDefine.h"
+	"cosbiDefine.h"
+
+1184867158 source:/home/van/code/c++/codeblocks/miniBench/cAesBench.cpp
+	"cAesBench.h"
+
+1267028635 /home/van/code/c++/codeblocks/miniBench/cAesBench.h
+	<iostream>
+	<iomanip>
+	<string>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"..\..\common\cosbiDefine.h"
+	"..\..\common\cosbiCommon.h"
+	"..\..\crypto\cAes.h"
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCommon.h"
+	"..\crypto\cAes.h"
+	"cosbiDefine.h"
+	"cosbiCommon.h"
+	"cAes.h"
+
+1267893476 source:/home/van/code/c++/codeblocks/miniBench/cDhrystone.cpp
+	"cDhrystone.h"
+
+1278481481 /home/van/code/c++/codeblocks/miniBench/cDhrystone.h
+	<sys/timeb.h>
+	"cShortTests.h"
+
+1278760874 /home/van/code/c++/codeblocks/miniBench/cShortTests.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<time.h>
+	<float.h>
+	<math.h>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	"cStopwatch.h"
+
+1267897704 source:/home/van/code/c++/codeblocks/miniBench/cFFT.cpp
+	"cFFT.h"
+
+1267893070 /home/van/code/c++/codeblocks/miniBench/cFFT.h
+	"cShortTests.h"
+
+1266997092 source:/home/van/code/c++/codeblocks/miniBench/cFlops.cpp
+	"cFlops.h"
+
+1266997468 /home/van/code/c++/codeblocks/miniBench/cFlops.h
+	<string>
+	<iostream>
+	<time.h>
+	<math.h>
+	"..\..\common\cosbiDefine.h"
+	"..\common\cosbiDefine.h"
+	"cosbiDefine.h"
+
+1266996871 source:/home/van/code/c++/codeblocks/miniBench/cLinpack.cpp
+	"cLinpack.h"
+
+1266888472 /home/van/code/c++/codeblocks/miniBench/cLinpack.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	<iomanip>
+	"..\..\common\cosbiDefine.h"
+	"..\..\common\cosbiCommon.h"
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"cosbiCommon.h"
+
+1278762066 source:/home/van/code/c++/codeblocks/miniBench/cQueens.cpp
+	"cQueens.h"
+
+1278762120 /home/van/code/c++/codeblocks/miniBench/cQueens.h
+	"cShortTests.h"
+	"cStopwatch.h"
+	<omp.h>
+
+1267023361 source:/home/van/code/c++/codeblocks/miniBench/cSha1.cpp
+	"cSha1.h"
+
+1267022415 /home/van/code/c++/codeblocks/miniBench/cSha1.h
+	<string>
+	<malloc.h>
+	<cstring>
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCpuid.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"cosbiCpuid.h"
+	"cosbiCommon.h"
+
+1267022900 source:/home/van/code/c++/codeblocks/miniBench/cSha1Bench.cpp
+	"cSha1Bench.h"
+
+1267022310 /home/van/code/c++/codeblocks/miniBench/cSha1Bench.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<cstring>
+	"..\..\common\cosbiDefine.h"
+	"..\..\crypto\cSha1.h"
+	"..\common\cosbiDefine.h"
+	"..\crypto\cSha1.h"
+	"cosbiDefine.h"
+	"cSha1.h"
+
+1267025714 source:/home/van/code/c++/codeblocks/miniBench/cSha256.cpp
+	"cSha256.h"
+
+1267878140 /home/van/code/c++/codeblocks/miniBench/cSha256.h
+	<string>
+	<malloc.h>
+	<cstring>
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCpuid.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"cosbiCpuid.h"
+	"cosbiCommon.h"
+
+1184867391 source:/home/van/code/c++/codeblocks/miniBench/cSha256Bench.cpp
+	"cSha256Bench.h"
+
+1267025572 /home/van/code/c++/codeblocks/miniBench/cSha256Bench.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<cstring>
+	"..\..\crypto\cSha256.h"
+	"..\crypto\cSha256.h"
+	"cSha256.h"
+
+1278761436 source:/home/van/code/c++/codeblocks/miniBench/cShortTests.cpp
+	"cShortTests.h"
+
+1267881060 source:/home/van/code/c++/codeblocks/miniBench/cWhetstone.cpp
+	"cWhetstone.h"
+
+1267880663 /home/van/code/c++/codeblocks/miniBench/cWhetstone.h
+	"cShortTests.h"
+
+1267736255 source:/home/van/code/c++/codeblocks/miniBench/cosbiCommon.cpp
+	"cosbiCommon.h"
+
+1267173569 source:/home/van/code/c++/codeblocks/miniBench/cosbiCpuid.cpp
+	"cosbiCpuid.h"
+
+1184867163 source:/home/van/code/c++/codeblocks/miniBench/gladman/aescrypt.c
+	"aesopt.h"
+
+1184867164 /home/van/code/c++/codeblocks/miniBench/gladman/aesopt.h
+	"aes.h"
+	<sys/endian.h>
+	<machine/endian.h>
+	<endian.h>
+	<byteswap.h>
+	<endian.h>
+
+1184867164 source:/home/van/code/c++/codeblocks/miniBench/gladman/aeskey.c
+	"aesopt.h"
+
+1184867165 source:/home/van/code/c++/codeblocks/miniBench/gladman/aestab.c
+	"aesopt.h"
+
+1267730616 source:/home/van/code/c++/codeblocks/miniBench/main.cpp
+	"cMiniBench.h"
+
+1278758954 /home/van/code/c++/codeblocks/miniBench/cMiniBench.h
+	"cShortTests.h"
+	"cLinpack.h"
+	"cFlops.h"
+	"cSha1Bench.h"
+	"cSha256Bench.h"
+	"cAesBench.h"
+	"cDhrystone.h"
+	"cWhetstone.h"
+	"cQueens.h"
+	"cFFT.h"
+	"cosbiCommon.h"
+
+1278761729 source:/home/van/code/c++/codeblocks/miniBench/cMiniBench.cpp
+	"cMiniBench.h"
+
+1278757077 /home/van/code/c++/codeblocks/miniBench/cStopwatch.h
+	<sys/time.h>
+	<iostream>
+
+1278757555 source:/home/van/code/c++/codeblocks/miniBench/cStopwatch.cpp
+	"cStopwatch.h"
+
+1279365583 source:h:\data\c++\codeblocks\minibench\caes.cpp
+	"cAes.h"
+
+1279365479 h:\data\c++\codeblocks\minibench\caes.h
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cstring>
+	"..\common\cosbiDefine.h"
+	".\gladman\aes.h"
+	"..\common\cosbiCpuid.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"./gladman/aes.h"
+	"cosbiCpuid.h"
+	"cosbiCommon.h"
+
+1184867163 h:\data\c++\codeblocks\minibench\gladman\aes.h
+	"limits.h"
+
+1266891622 h:\data\c++\codeblocks\minibench\cosbidefine.h
+
+1279365498 h:\data\c++\codeblocks\minibench\cosbicpuid.h
+	<iostream>
+	<iomanip>
+	<string>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"cosbiDefine.h"
+
+1279365664 h:\data\c++\codeblocks\minibench\cosbicommon.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	"cosbiDefine.h"
+
+1184867158 source:h:\data\c++\codeblocks\minibench\caesbench.cpp
+	"cAesBench.h"
+
+1267032235 h:\data\c++\codeblocks\minibench\caesbench.h
+	<iostream>
+	<iomanip>
+	<string>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"..\..\common\cosbiDefine.h"
+	"..\..\common\cosbiCommon.h"
+	"..\..\crypto\cAes.h"
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCommon.h"
+	"..\crypto\cAes.h"
+	"cosbiDefine.h"
+	"cosbiCommon.h"
+	"cAes.h"
+
+1267897076 source:h:\data\c++\codeblocks\minibench\cdhrystone.cpp
+	"cDhrystone.h"
+
+1279365621 h:\data\c++\codeblocks\minibench\cdhrystone.h
+	<sys/timeb.h>
+	"cShortTests.h"
+
+1278760874 h:\data\c++\codeblocks\minibench\cshorttests.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<time.h>
+	<float.h>
+	<math.h>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	"cStopwatch.h"
+
+1278757077 h:\data\c++\codeblocks\minibench\cstopwatch.h
+	<sys/time.h>
+	<iostream>
+
+1267901304 source:h:\data\c++\codeblocks\minibench\cfft.cpp
+	"cFFT.h"
+
+1267896670 h:\data\c++\codeblocks\minibench\cfft.h
+	"cShortTests.h"
+
+1267000692 source:h:\data\c++\codeblocks\minibench\cflops.cpp
+	"cFlops.h"
+
+1267001068 h:\data\c++\codeblocks\minibench\cflops.h
+	<string>
+	<iostream>
+	<time.h>
+	<math.h>
+	"..\..\common\cosbiDefine.h"
+	"..\common\cosbiDefine.h"
+	"cosbiDefine.h"
+
+1267000471 source:h:\data\c++\codeblocks\minibench\clinpack.cpp
+	"cLinpack.h"
+
+1279871612 h:\data\c++\codeblocks\minibench\clinpack.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	<iomanip>
+	"..\..\common\cosbiDefine.h"
+	"..\..\common\cosbiCommon.h"
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"cosbiCommon.h"
+	"cShortTests.h"
+	<omp.h>
+
+1279870841 source:h:\data\c++\codeblocks\minibench\cminibench.cpp
+	"cMiniBench.h"
+
+1278762386 h:\data\c++\codeblocks\minibench\cminibench.h
+	"cShortTests.h"
+	"cLinpack.h"
+	"cFlops.h"
+	"cSha1Bench.h"
+	"cSha256Bench.h"
+	"cAesBench.h"
+	"cDhrystone.h"
+	"cWhetstone.h"
+	"cQueens.h"
+	"cFFT.h"
+	"cosbiCommon.h"
+
+1267025910 h:\data\c++\codeblocks\minibench\csha1bench.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<cstring>
+	"..\..\common\cosbiDefine.h"
+	"..\..\crypto\cSha1.h"
+	"..\common\cosbiDefine.h"
+	"..\crypto\cSha1.h"
+	"cosbiDefine.h"
+	"cSha1.h"
+
+1267026015 h:\data\c++\codeblocks\minibench\csha1.h
+	<string>
+	<malloc.h>
+	<cstring>
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCpuid.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"cosbiCpuid.h"
+	"cosbiCommon.h"
+
+1267029172 h:\data\c++\codeblocks\minibench\csha256bench.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<cstring>
+	"..\..\crypto\cSha256.h"
+	"..\crypto\cSha256.h"
+	"cSha256.h"
+
+1267881740 h:\data\c++\codeblocks\minibench\csha256.h
+	<string>
+	<malloc.h>
+	<cstring>
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCpuid.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"cosbiCpuid.h"
+	"cosbiCommon.h"
+
+1267884263 h:\data\c++\codeblocks\minibench\cwhetstone.h
+	"cShortTests.h"
+
+1278762120 h:\data\c++\codeblocks\minibench\cqueens.h
+	"cShortTests.h"
+	"cStopwatch.h"
+	<omp.h>
+
+1278762066 source:h:\data\c++\codeblocks\minibench\cqueens.cpp
+	"cQueens.h"
+
+1267026961 source:h:\data\c++\codeblocks\minibench\csha1.cpp
+	"cSha1.h"
+
+1267026500 source:h:\data\c++\codeblocks\minibench\csha1bench.cpp
+	"cSha1Bench.h"
+
+1267029314 source:h:\data\c++\codeblocks\minibench\csha256.cpp
+	"cSha256.h"
+
+1184867391 source:h:\data\c++\codeblocks\minibench\csha256bench.cpp
+	"cSha256Bench.h"
+
+1278761436 source:h:\data\c++\codeblocks\minibench\cshorttests.cpp
+	"cShortTests.h"
+
+1267884660 source:h:\data\c++\codeblocks\minibench\cwhetstone.cpp
+	"cWhetstone.h"
+
+1267739855 source:h:\data\c++\codeblocks\minibench\cosbicommon.cpp
+	"cosbiCommon.h"
+
+1267177169 source:h:\data\c++\codeblocks\minibench\cosbicpuid.cpp
+	"cosbiCpuid.h"
+
+1184867163 source:h:\data\c++\codeblocks\minibench\gladman\aescrypt.c
+	"aesopt.h"
+
+1279365862 h:\data\c++\codeblocks\minibench\gladman\aesopt.h
+	"aes.h"
+	<sys/endian.h>
+	<machine/endian.h>
+	<endian.h>
+
+1184867164 source:h:\data\c++\codeblocks\minibench\gladman\aeskey.c
+	"aesopt.h"
+
+1184867165 source:h:\data\c++\codeblocks\minibench\gladman\aestab.c
+	"aesopt.h"
+
+1267734216 source:h:\data\c++\codeblocks\minibench\main.cpp
+	"cMiniBench.h"
+
+1278757555 source:h:\data\c++\codeblocks\minibench\cstopwatch.cpp
+	"cStopwatch.h"
+
+1279365584 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cAes.cpp
+	"cAes.h"
+
+1279365480 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cAes.h
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cstring>
+	"..\common\cosbiDefine.h"
+	".\gladman\aes.h"
+	"..\common\cosbiCpuid.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"./gladman/aes.h"
+	"cosbiCpuid.h"
+	"cosbiCommon.h"
+
+1266891622 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cosbiDefine.h
+
+1184867164 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/gladman/aes.h
+	"limits.h"
+
+1279365498 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cosbiCpuid.h
+	<iostream>
+	<iomanip>
+	<string>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"cosbiDefine.h"
+
+1279365664 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cosbiCommon.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	"cosbiDefine.h"
+
+1184867158 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cAesBench.cpp
+	"cAesBench.h"
+
+1267032236 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cAesBench.h
+	<iostream>
+	<iomanip>
+	<string>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"..\..\common\cosbiDefine.h"
+	"..\..\common\cosbiCommon.h"
+	"..\..\crypto\cAes.h"
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCommon.h"
+	"..\crypto\cAes.h"
+	"cosbiDefine.h"
+	"cosbiCommon.h"
+	"cAes.h"
+
+1267897076 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cDhrystone.cpp
+	"cDhrystone.h"
+
+1279365622 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cDhrystone.h
+	<sys/timeb.h>
+	"cShortTests.h"
+
+1278760874 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cShortTests.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<time.h>
+	<float.h>
+	<math.h>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	"cStopwatch.h"
+
+1278757078 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cStopwatch.h
+	<sys/time.h>
+	<iostream>
+
+1267901304 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cFFT.cpp
+	"cFFT.h"
+
+1267896670 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cFFT.h
+	"cShortTests.h"
+
+1267000692 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cFlops.cpp
+	"cFlops.h"
+
+1267001068 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cFlops.h
+	<string>
+	<iostream>
+	<time.h>
+	<math.h>
+	"..\..\common\cosbiDefine.h"
+	"..\common\cosbiDefine.h"
+	"cosbiDefine.h"
+
+1279871742 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cLinpack.cpp
+	"cLinpack.h"
+
+1279871612 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cLinpack.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	<iomanip>
+	"..\..\common\cosbiDefine.h"
+	"..\..\common\cosbiCommon.h"
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"cosbiCommon.h"
+	"cShortTests.h"
+	<omp.h>
+
+1279870842 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cMiniBench.cpp
+	"cMiniBench.h"
+
+1278762386 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cMiniBench.h
+	"cShortTests.h"
+	"cLinpack.h"
+	"cFlops.h"
+	"cSha1Bench.h"
+	"cSha256Bench.h"
+	"cAesBench.h"
+	"cDhrystone.h"
+	"cWhetstone.h"
+	"cQueens.h"
+	"cFFT.h"
+	"cosbiCommon.h"
+
+1267025910 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cSha1Bench.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<cstring>
+	"..\..\common\cosbiDefine.h"
+	"..\..\crypto\cSha1.h"
+	"..\common\cosbiDefine.h"
+	"..\crypto\cSha1.h"
+	"cosbiDefine.h"
+	"cSha1.h"
+
+1267026016 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cSha1.h
+	<string>
+	<malloc.h>
+	<cstring>
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCpuid.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"cosbiCpuid.h"
+	"cosbiCommon.h"
+
+1267029172 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cSha256Bench.h
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<cstring>
+	"..\..\crypto\cSha256.h"
+	"..\crypto\cSha256.h"
+	"cSha256.h"
+
+1267881740 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cSha256.h
+	<string>
+	<malloc.h>
+	<cstring>
+	"..\common\cosbiDefine.h"
+	"..\common\cosbiCpuid.h"
+	"..\common\cosbiCommon.h"
+	"cosbiDefine.h"
+	"cosbiCpuid.h"
+	"cosbiCommon.h"
+
+1267884264 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cWhetstone.h
+	"cShortTests.h"
+
+1278762120 /home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cQueens.h
+	"cShortTests.h"
+	"cStopwatch.h"
+	<omp.h>
+
+1278762066 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cQueens.cpp
+	"cQueens.h"
+
+1267026962 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cSha1.cpp
+	"cSha1.h"
+
+1267026500 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cSha1Bench.cpp
+	"cSha1Bench.h"
+
+1267029314 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cSha256.cpp
+	"cSha256.h"
+
+1184867392 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cSha256Bench.cpp
+	"cSha256Bench.h"
+
+1278761436 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cShortTests.cpp
+	"cShortTests.h"
+
+1278757556 source:/home/rick/Desktop/vista_drive_c/downloads/miniBench/miniBench32/cStopwatch.cpp
+	"cStopwatch.h"
+

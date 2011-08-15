@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="cAes.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="3232" topLine="80" />
+	</File>
+	<File name="cAes.h" open="0" top="0" tabpos="8">
+		<Cursor position="2329" topLine="0" />
+	</File>
+	<File name="cAesBench.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="12" />
+	</File>
+	<File name="cAesBench.h" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="78" />
+	</File>
+	<File name="cDhrystone.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="12201" topLine="334" />
+	</File>
+	<File name="cDhrystone.h" open="0" top="0" tabpos="11">
+		<Cursor position="1598" topLine="0" />
+	</File>
+	<File name="cFFT.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="4191" topLine="170" />
+	</File>
+	<File name="cFFT.h" open="0" top="0" tabpos="6">
+		<Cursor position="103" topLine="0" />
+	</File>
+	<File name="cLinpack.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="33138" topLine="1072" />
+	</File>
+	<File name="cLinpack.h" open="1" top="0" tabpos="9">
+		<Cursor position="10326" topLine="257" />
+	</File>
+	<File name="cMiniBench.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="3373" topLine="99" />
+	</File>
+	<File name="cMiniBench.h" open="1" top="0" tabpos="4">
+		<Cursor position="2444" topLine="81" />
+	</File>
+	<File name="cQueens.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="695" topLine="0" />
+	</File>
+	<File name="cQueens.h" open="1" top="0" tabpos="10">
+		<Cursor position="107" topLine="0" />
+	</File>
+	<File name="cSha1.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="3176" topLine="108" />
+	</File>
+	<File name="cSha1.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="48" />
+	</File>
+	<File name="cSha1Bench.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="cSha1Bench.h" open="0" top="0" tabpos="12">
+		<Cursor position="0" topLine="13" />
+	</File>
+	<File name="cSha256.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="9301" topLine="224" />
+	</File>
+	<File name="cSha256.h" open="0" top="0" tabpos="0">
+		<Cursor position="2373" topLine="49" />
+	</File>
+	<File name="cShortTests.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="12391" topLine="550" />
+	</File>
+	<File name="cShortTests.h" open="0" top="0" tabpos="5">
+		<Cursor position="901" topLine="0" />
+	</File>
+	<File name="cStream.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="5469" topLine="179" />
+	</File>
+	<File name="cStream.h" open="1" top="1" tabpos="13">
+		<Cursor position="2011" topLine="54" />
+	</File>
+	<File name="cWhetstone.h" open="0" top="0" tabpos="0">
+		<Cursor position="463" topLine="0" />
+	</File>
+	<File name="cosbiCommon.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="2918" topLine="83" />
+	</File>
+	<File name="cosbiCommon.h" open="1" top="0" tabpos="7">
+		<Cursor position="35" topLine="0" />
+	</File>
+	<File name="cosbiCpuid.h" open="1" top="0" tabpos="6">
+		<Cursor position="1363" topLine="0" />
+	</File>
+	<File name="gladman/aescrypt.c" open="0" top="0" tabpos="8">
+		<Cursor position="6258" topLine="143" />
+	</File>
+	<File name="gladman/aesopt.h" open="0" top="0" tabpos="12">
+		<Cursor position="6518" topLine="128" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="113" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
